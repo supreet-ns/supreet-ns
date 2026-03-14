@@ -1,6 +1,6 @@
 # IoT Soil Moisture Detector 🌿
 
-A first-year engineering project built at **PESITM**. This device monitors soil health in real-time using an ESP32 and sends data to a mobile app.
+A first-year engineering project. This device monitors soil health in real-time using an ESP32 and sends data to a mobile app.
 
 ## 🛠️ Components
 - **Microcontroller:** ESP32
