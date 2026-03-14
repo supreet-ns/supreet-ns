@@ -14,3 +14,5 @@ A first-year engineering project. This device monitors soil health in real-time 
 
 ## 📂 Project Structure
 - `/src`: Source code (C++/Arduino)
+- `/schematics`: Circuit diagrams
+- README.md: Project documentation
