@@ -1,10 +1,10 @@
-# Hi there, I'm Supreet N S 👋
+# Hi there, I'm Supreet 👋
 
 ### 🚀 Computer Science Engineering Student | Open-Source Contributor | Hardware & Web Enthusiast
 
 I am a first-year B.E. Computer Science student at PESITM, building the bridge between low-level hardware and high-performance, ergonomic web interfaces. I'm passionate about IoT, AI, and designing systems that feel like the future.
 
-Currently, I am actively preparing for **Google Summer of Code (GSoC) 2026**, specifically targeting projects within **CERN-HSF**.
+Currently, I am actively preparing for **Google Summer of Code (GSoC) 2026**.
 
 ---
 
@@ -12,7 +12,7 @@ Currently, I am actively preparing for **Google Summer of Code (GSoC) 2026**, sp
 - 🔭 **Building:** [Constellation WebUI] - A high-performance, Liquid Glass interface for hardware satellite telemetry and FSM control (Built with React & Tailwind).
 - 🌱 **Learning:** Advanced Python, Machine Learning concepts, and deep-diving into Cybersecurity and Network Heists.
 - ⚙️ **Hardware:** Prototyping IoT systems (like my ESP32/Blynk Soil Moisture Detector) and exploring PC hardware architectures.
-- 📹 **Creating:** Launching a tech and true-crime cybersecurity documentary channel soon.
+
 
 ---
 
@@ -25,14 +25,6 @@ Currently, I am actively preparing for **Google Summer of Code (GSoC) 2026**, sp
 **Hardware & Systems:** ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-FF5722?style=for-the-badge&logo=internet-of-things&logoColor=white)
 
 **Version Control & Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supreet-ns&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supreet-ns&theme=tokyonight" width="48%" />
-</div>
 
 ---
 
