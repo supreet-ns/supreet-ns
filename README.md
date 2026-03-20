@@ -1,4 +1,4 @@
-# Hi there, I'm Supreet 👋
+# Hi, I'm Supreet 👋
 
 ### 🚀 Computer Science Engineering Student | Open-Source Contributor | Hardware & Web Enthusiast
 
