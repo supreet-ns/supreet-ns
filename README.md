@@ -37,6 +37,6 @@ Currently, I am actively preparing for **Google Summer of Code (GSoC) 2026**, sp
 ---
 
 ### 📫 Connect With Me
-Always open to collaborating on open-source projects, discussing tech thrillers, or geeking out over Bugattis and custom PC builds. 
+Always open to collaborating on open-source projects.
 
-- **Email:** supreet.ns77@gmail.com
+- **Email:** supreetnavale2006@gmail.com
