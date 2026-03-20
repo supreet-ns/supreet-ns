@@ -10,7 +10,7 @@ Currently, I am actively preparing for **Google Summer of Code (GSoC) 2026**.
 
 ### 🔬 What I'm Working On
 - 🔭 **Building:** [Constellation WebUI] - A high-performance, Liquid Glass interface for hardware satellite telemetry and FSM control (Built with React & Tailwind).
-- 🌱 **Learning:** Advanced Python, Machine Learning concepts, and deep-diving into Cybersecurity and Network Heists.
+- 🌱 **Learning:** Advanced Python, Machine Learning concepts.
 - ⚙️ **Hardware:** Prototyping IoT systems (like my ESP32/Blynk Soil Moisture Detector) and exploring PC hardware architectures.
 
 
