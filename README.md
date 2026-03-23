@@ -4,7 +4,7 @@
 
 I am a first-year B.E. Computer Science student at PESITM, building the bridge between low-level hardware and high-performance, ergonomic web interfaces. I'm passionate about IoT, AI, and designing systems that feel like the future.
 
-Currently, I am actively preparing for **Google Summer of Code (GSoC) 2026**.
+
 
 ---
 
